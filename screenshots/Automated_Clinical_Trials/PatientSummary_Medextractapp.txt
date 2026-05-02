@@ -1,0 +1,5 @@
+{
+  "summary": "The patient, Maricarmen445 Caballero789, had multiple clinical encounters primarily for asthma and hyperlipidemia. Various procedures were conducted, including health assessments and screenings for domestic abuse and depression. Medications prescribed included inhalers for asthma and Simvastatin for hyperlipidemia.",
+  "accuracy": 0.85,
+  "faithfulness": 0.8
+}
